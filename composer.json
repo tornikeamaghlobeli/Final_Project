@@ -1,0 +1,13 @@
+{
+  "name": "giorgi/website",
+  "authors": [
+    {
+      "name": "Giorgi",
+      "email": "gbaxbaia@gmail.com"
+    }
+  ],
+  "require": {
+    "ext-mysqli": "*",
+    "ext-pdo": "*"
+  }
+}
